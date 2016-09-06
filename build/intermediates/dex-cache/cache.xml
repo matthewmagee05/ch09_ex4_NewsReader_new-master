@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/matthewmagee/Desktop/week5COM232/ch09_ex4_NewsReader_new-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="d64ec7fe27309cde023c74928b179161fe230b65">
+        <dex dex="/Users/matthewmagee/Desktop/week5COM232/ch09_ex4_NewsReader_new-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0cbe3796502747d571af2972d8b669ee8cf1c373/classes.dex" />
+    </item>
+    <item
+        jar="/Users/matthewmagee/Desktop/week5COM232/ch09_ex4_NewsReader_new-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="5f9f9738ddfebabfb3db5def65c37c9f3cc8985d">
+        <dex dex="/Users/matthewmagee/Desktop/week5COM232/ch09_ex4_NewsReader_new-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d217bc6f6953a7ac0353f01d894e91785e75e4f9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/matthewmagee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/matthewmagee/Desktop/week5COM232/ch09_ex4_NewsReader_new-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_27f11d2284636d4fb2cab0d1c6f00884692f9dbc/classes.dex" />
+    </item>
+
+</items>

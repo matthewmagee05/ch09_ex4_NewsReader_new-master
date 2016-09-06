@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="69485111651456"
+    token="-4926169392530953481" >
+
+    <task
+        name="javac"
+        duration="179" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="66" />
+    <task
+        name="verifier"
+        duration="11" />
+
+    <artifact
+        location="/Users/matthewmagee/Desktop/week5COM232/ch09_ex4_NewsReader_new-master/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="69485111651456" >
+        <artifact
+            location="/Users/matthewmagee/Desktop/week5COM232/ch09_ex4_NewsReader_new-master/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
